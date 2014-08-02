@@ -1,4 +1,4 @@
-cgm-remote-monitor (a.k.a. NightScout) forker version
+cgm-remote-monitor (a.k.a. NightScout) forked version of mpenguin
 ======================================
 Please see and use original as I add work to that project.  This fork is
 to take on firefox display issues and is very much alpha code.
